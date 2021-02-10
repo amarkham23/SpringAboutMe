@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SpringAboutMe</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi, my name is Andrew.
+\n\nI love dogs.
+\n\nThe kind that is playful and runs around in the backyard or park, or a field, and definitely loves walks.
+\nFun fact is that there are several different kinds of dogs
+\n\nSome of my favorite dog breeds are German Shepherds, St. Bernards, Huskies, Labs, and Great Danes.
+\nDogs are wonderful, and I hope to have another one some day.
+\nIn addition to loving dogs, I also like cats.
+\n\n I have two cats of my own, and wish I could get a dog too, however my current home doesnt allow for it.
+\n\nI\'ll be happy to get a dog one day after I buy my own house.
+\nOne day, after all my hard work in school pays off with a new job!\n\n</string>
+    <string name="name_string">Andrew Markham</string>
+</resources>
